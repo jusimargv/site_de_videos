@@ -1,4 +1,4 @@
-# Sites De Videos 
+# Sites Para Reproduzir Videos 
 
 ## Descrição
 Este projeto é um site de vídeos para estudo, semelhante ao YouTube, com uma interface responsiva que se adapta a vários tipos de dispositivos. O objetivo é fornecer uma plataforma de fácil navegação e alta qualidade para assistir a vídeos educativos.
